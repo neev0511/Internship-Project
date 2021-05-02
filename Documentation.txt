@@ -1,0 +1,9 @@
+Problem statement  :  To make a career choices website in which we can help people decide their future careers
+
+Browser  :  Microsoft Edge, Google Chrome
+
+Features  :  1. Taking answers for questions and determining best possible job for them.
+	     2. A test that determines the aptitude of a person.
+
+Future scope  :	1. Adding new jobs
+		2. Accurately predicting jobs
